@@ -103,11 +103,11 @@ async def start_(client: Client, message: Message):
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/548483f508a91b65a67d9.jpg",
-        caption=f"""ᴘʀᴏɢʀᴀᴍᴍᴇʀ [virus](https://t.me/VR_NJ) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼""",
+        caption=f"""ᴘʀᴏɢʀᴀᴍᴍᴇʀ [coder](https://t.me/TX7X7) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼""",
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("ＶＩＲＵＳ", url=f"https://t.me/VR_NJ"),
+                InlineKeyboardButton("- اوليفر .", url=f"https://t.me/TX7X7"),
             ],
             [
                 InlineKeyboardButton(
@@ -129,7 +129,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("ＶＩＲＵＳ", url=f"https://t.me/VR_NJ"),
+                InlineKeyboardButton("- اوليفر .", url=f"https://t.me/TX7X7"),
             ],
             [
                 InlineKeyboardButton(
