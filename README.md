@@ -54,7 +54,7 @@
 | `/rmd` | مسح جميع الملفات المحمله |
 ## التنصيب علي هيروكو💜
 
-[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LordSan9/music-)
 
 
 
